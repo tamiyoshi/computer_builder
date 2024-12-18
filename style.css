@@ -1,0 +1,21 @@
+#pc-list-container {
+  color: aliceblue;
+  height: 100vh;
+}
+#pc-list-container h2 {
+  font-size: 3rem;
+}
+
+select {
+  height: 40px;
+  align-items: center;
+}
+
+#pc-performance p {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+#pc-performance p span {
+  font-size: 1.5rem;
+}
